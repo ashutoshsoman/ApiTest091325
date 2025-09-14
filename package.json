@@ -1,0 +1,22 @@
+{
+  "name": "apitest091325",
+  "version": "1.0.0",
+  "description": "this repo is for demo purposes for testing API's by using playwright libraries",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ashutoshsoman/ApiTest091325.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ashutoshsoman/ApiTest091325/issues"
+  },
+  "homepage": "https://github.com/ashutoshsoman/ApiTest091325#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.55.0",
+    "@types/node": "^24.3.3"
+  }
+}
